@@ -1,7 +1,7 @@
 # 🧠 Projetos C# / .NET
 
 Meus estudos e projetos desenvolvidos em **C#** durante minha jornada de aprendizado.  
-Todos os projetos foram feitos em **.NET**, com foco em **praticar lógica, POO e manipulação de console**.
+Todos os projetos foram feitos em **.NET**, com foco em **praticar lógica, POO, APIs e manipulação de dados**.
 
 ---
 
@@ -19,28 +19,35 @@ Todos os projetos foram feitos em **.NET**, com foco em **praticar lógica, POO 
 | [💡 LeetCode C#](https://github.com/mateushrc/leetcode-csharp) | My personal LeetCode solutions written in C#. Focused on algorithms, logic, and problem-solving skills. | 08/11/2025 |
 | [📁 FileManager](https://github.com/mateushrc/filemanager-csharp) | File management system following SOLID principles with full CRUD functionality. | 10/11/2025 |
 | [📧 ValidateEmail](https://github.com/mateushrc/validateemail-csharp) | Simple email validator using **Regex** to verify proper email format (e.g., user@example.com). | 11/11/2025 |
+| [🌐 LibraryAPI](https://github.com/mateushrc/LibraryAPI-csharp) | REST API built with **ASP.NET Core** + **Entity Framework** + **MySQL**, allowing full CRUD operations for managing books. | 13/11/2025 |
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 - **C#** — linguagem principal para todos os projetos  
-- **.NET** — framework base para desenvolvimento e execução  
+- **.NET / ASP.NET Core** — desenvolvimento de APIs modernas  
+- **Entity Framework Core** — mapeamento objeto-relacional  
+- **MySQL** — banco de dados utilizado na API  
 - **Console Applications** — foco em lógica, estrutura e interação direta com o usuário  
-- **Programação Orientada a Objetos (POO)** — aplicada em todos os projetos para praticar boas práticas e organização de código  
+- **Programação Orientada a Objetos (POO)** — aplicada em todos os projetos  
 
 ---
 
 ## 🎯 Objetivo
-Este repositório foi criado para **consolidar meus estudos em C# e .NET**, aplicando os conceitos de:
+Este repositório foi criado para **consolidar minha evolução em C# e .NET**, praticando:
+
 - Estruturas de repetição, decisão e tratamento de erros  
 - Manipulação de strings, coleções e arquivos  
-- Padrões de projeto e princípios **SOLID**  
-- Escrita de código limpo, reutilizável e bem estruturado  
-- Simulação de cenários reais de CRUD e lógica de sistemas  
+- Construção de APIs e integração com banco de dados  
+- Princípios **SOLID** e boas práticas de arquitetura  
+- Código limpo, reutilizável e profissional  
 
 ---
 
 ## 📘 Próximos Passos
-- Criar **CRUDs com persistência de dados** (arquivos e banco de dados)  
-- Explorar **APIs REST** com **ASP.NET Core**  
-- Implementar **testes automatizados e boas práticas de arquitetura**  
+- Criar **CRUDs mais avançados** com autenticação e camadas separadas  
+- Implementar **testes unitários**  
+- Estudar e aplicar **Clean Architecture / DDD**  
+- Criar APIs completas com **JWT Authentication**  
+- Publicar aplicações no **Azure** ou **Railway**  
+
